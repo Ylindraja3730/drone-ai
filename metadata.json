@@ -1,0 +1,8 @@
+{
+  "name": "EagleEye: Hybrid Drone Defense System",
+  "description": "AI-based Hybrid System for Detecting, Tracking, and Classifying Unauthorized Low-Altitude Drones in Restricted Defence Zones.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
